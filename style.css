@@ -1,0 +1,256 @@
+.bg-container {
+    background-color: #f49ac2;
+    background-size: cover;
+    height: 250vh;
+    width: 900px;
+}
+
+.icon {
+    font-size: 125px;
+    margin: 30px;
+    color: #000080;
+}
+
+.title {
+    font-family: "Roboto";
+    font-size: 25px;
+    margin-right: 20px;
+    margin-left: 40px;
+    font-weight: 400;
+    color: #000080
+}
+
+.heading-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 55px;
+    margin-left: 9px;
+    padding-right: 50px;
+    font-weight: bold;
+    color: #000080
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-left: 30px;
+    color: #000080
+}
+
+.vertical {
+    border-left: 5px solid #000080;
+    height: 150px;
+    margin-top: 25px;
+}
+
+.contain {
+    margin-left: 10px;
+    padding-top: 25px;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-left: 25px;
+    color: #000080
+}
+
+.address {
+    margin-left: 10px;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-left: 25px;
+    color: #000080
+}
+
+
+.working-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.work-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.year {
+    font-family: "Roboto";
+    padding-left: 10px;
+    font-size: 15px;
+    color: #000080
+}
+
+.rest-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-left: 50px;
+    font-weight: bold;
+    color: #000080
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-left: 50px;
+    color: #000080
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.skills-containers {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.awards-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills {
+    font-family: "Roboto";
+    text-align: start;
+    font-size: 15px;
+    margin-right: 50px;
+    font-weight: bold;
+    color: #000080
+}
+
+.skills1 {
+    font-family: "Roboto";
+    text-align: start;
+    font-size: 15px;
+    margin-right: 130px;
+    font-weight: bold;
+    color: #000080
+}
+
+.skills2 {
+    font-family: "Roboto";
+    text-align: start;
+    font-size: 15px;
+    margin-right: 90px;
+    font-weight: bold;
+    color: #000080
+}
+
+.skills3 {
+    font-family: "Roboto";
+    text-align: start;
+    font-size: 15px;
+    margin-right: 55px;
+    font-weight: bold;
+    color: #000080
+}
+
+.skills4 {
+    font-family: "Roboto";
+    text-align: start;
+    font-size: 15px;
+    margin-right: 85px;
+    font-weight: bold;
+    color: #000080
+}
+
+.circle {
+    background-color: #000080;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+
+
+.vertical1 {
+    border-left: 5px solid #000080;
+    height: 250px;
+    margin: 20px;
+}
+
+.sub-container1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.award-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-left: 100px;
+    font-weight: bold;
+    color: #000080
+}
+
+.para1 {
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-left: 100px;
+    color: #000080
+}
+
+.education-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.edu-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon1 {
+    background-color: #000080;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 35px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+
+}
+
+.interest-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.inst-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.interest {
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    color: #000080
+}
